@@ -1,0 +1,599 @@
+What is Ohm's Law formula?
+a) V = I * R
+b) P = I * V
+c) V = P / I
+d) R = V / P
+
+What is the unit of electrical resistance?
+a) Ampere
+b) Volt
+c) Ohm
+d) Watt
+
+Which component is used to store electrical energy?
+a) Resistor
+b) Capacitor
+c) Inductor
+d) Transformer
+
+What is the unit of electrical power?
+a) Volt
+b) Ampere
+c) Ohm
+d) Watt
+
+What is the primary function of a transformer?
+a) To store electrical energy
+b) To convert AC to DC
+c) To change the voltage level
+d) To measure electrical current
+
+Which type of current flows in only one direction?
+a) Alternating Current (AC)
+b) Direct Current (DC)
+c) Pulsating Current
+d) Variable Current
+
+What is the formula for electrical power in an AC circuit?
+a) P = V * I
+b) P = V^2 / R
+c) P = I^2 * R
+d) P = V * I * cos(φ)
+
+What does the abbreviation LED stand for?
+a) Light Emitting Diode
+b) Light Emitting Display
+c) Low Energy Diode
+d) Low Emission Device
+
+Which electrical component limits the flow of current?
+a) Capacitor
+b) Resistor
+c) Inductor
+d) Diode
+
+What is the function of a diode in an electronic circuit?
+a) To store electrical energy
+b) To allow current to flow in both directions
+c) To allow current to flow in one direction only
+d) To convert AC to DC
+
+What is the basic unit of charge in an electrical circuit?
+a) Ampere
+b) Volt
+c) Ohm
+d) Coulomb
+
+What is the unit of capacitance?
+a) Henry
+b) Farad
+c) Ohm
+d) Ampere
+
+Which type of resistor has a fixed resistance value?
+a) Variable Resistor
+b) Potentiometer
+c) Fixed Resistor
+d) Rheostat
+
+What does a capacitor do in a DC circuit after it is fully charged?
+a) It provides a path for current to flow
+b) It acts as a short circuit
+c) It blocks the current
+d) It stores energy indefinitely
+
+In an AC circuit, what is the power factor?
+a) The ratio of real power to apparent power
+b) The ratio of reactive power to apparent power
+c) The ratio of voltage to current
+d) The ratio of energy stored to energy dissipated
+
+Which device is used to measure electrical voltage?
+a) Ammeter
+b) Voltmeter
+c) Ohmmeter
+d) Wattmeter
+
+What is the purpose of a fuse in an electrical circuit?
+a) To store electrical energy
+b) To protect the circuit from excessive current
+c) To increase voltage
+d) To decrease resistance
+
+What is the SI unit of electric current?
+a) Volt
+b) Ampere
+c) Ohm
+d) Watt
+
+What does a potentiometer measure?
+a) Voltage
+b) Current
+c) Resistance
+d) Capacitance
+
+Which of the following is a passive electronic component?
+a) LED
+b) Diode
+c) Transistor
+d) Resistor
+
+What is the primary difference between AC and DC?
+a) AC changes direction periodically, DC flows in one direction
+b) DC changes direction periodically, AC flows in one direction
+c) AC is used in batteries, DC is used in power lines
+d) There is no difference
+
+In which type of circuit is Ohm's Law typically applied?
+a) DC Circuits
+b) AC Circuits
+c) Digital Circuits
+d) Analog Circuits
+
+What does an oscilloscope display?
+a) Electrical resistance
+b) Electrical voltage over time
+c) Electrical power
+d) Electrical current
+
+Which electrical component can be used to increase or decrease voltage?
+a) Resistor
+b) Capacitor
+c) Transformer
+d) Diode
+
+What is the purpose of a rectifier in a power supply?
+a) To change AC to DC
+b) To change DC to AC
+c) To store electrical energy
+d) To measure electrical current
+
+Which type of transistor has three terminals?
+a) Bipolar Junction Transistor (BJT)
+b) Field-Effect Transistor (FET)
+c) Light-Emitting Transistor (LET)
+d) Darlington Transistor
+
+What is the symbol for a ground in electrical schematics?
+a) ⊥
+b) ~
+c) ⊗
+d) ⏚
+
+What is the primary function of a relay?
+a) To measure current
+b) To switch circuits on and off
+c) To store energy
+d) To regulate voltage
+
+In a parallel circuit, how does the total resistance compare to individual resistances?
+a) Total resistance is greater than individual resistances
+b) Total resistance is less than individual resistances
+c) Total resistance is equal to the sum of individual resistances
+d) Total resistance is zero
+
+What type of battery is commonly used in portable electronics?
+a) Lead-Acid
+b) Nickel-Cadmium
+c) Lithium-Ion
+d) Alkaline
+
+Which of the following is an example of an active electronic component?
+a) Resistor
+b) Capacitor
+c) Diode
+d) Transistor
+
+What does the term "impedance" refer to in AC circuits?
+a) Resistance only
+b) Resistance and reactance
+c) Only reactance
+d) Conductance
+
+Which material is commonly used for electrical wiring due to its high conductivity?
+a) Aluminum
+b) Copper
+c) Iron
+d) Steel
+
+What is the purpose of a heat sink in electronic devices?
+a) To provide electrical insulation
+b) To dissipate heat away from components
+c) To increase electrical resistance
+d) To store electrical energy
+
+What is the main purpose of a circuit breaker?
+a) To store electrical energy
+b) To protect circuits from overloads
+c) To convert AC to DC
+d) To regulate voltage
+
+In a series circuit, how is the total resistance calculated?
+a) It is the sum of individual resistances
+b) It is the product of individual resistances
+c) It is the reciprocal of the sum of reciprocals of individual resistances
+d) It is equal to the resistance of the largest resistor
+
+What is the purpose of a capacitor in an AC filter circuit?
+a) To block high frequencies
+b) To block low frequencies
+c) To allow all frequencies to pass
+d) To store energy
+
+Which electrical component is used to measure resistance?
+a) Voltmeter
+b) Ammeter
+c) Ohmmeter
+d) Wattmeter
+
+What is the primary function of an inductor in a circuit?
+a) To resist changes in current
+b) To store electrical energy
+c) To convert AC to DC
+d) To measure voltage
+
+What does the term "reactance" refer to in AC circuits?
+a) Resistance to current flow
+b) Resistance to voltage changes
+c) Opposition to the change in current or voltage
+d) Conductance
+
+Which type of waveform is typically produced by an oscillator?
+a) Square Wave
+b) Sawtooth Wave
+c) Sine Wave
+d) Triangular Wave
+
+What is the function of a current transformer?
+a) To measure high voltage
+b) To measure low current
+c) To convert AC to DC
+d) To measure high current
+
+What is the difference between a fuse and a circuit breaker?
+a) A fuse can be reset, a circuit breaker cannot
+b) A circuit breaker can be reset, a fuse cannot
+c) A fuse is used for AC circuits only, a circuit breaker is used for DC circuits only
+d) There is no difference
+
+What is the main function of a power supply unit (PSU) in a computer?
+a) To store data
+b) To convert AC to DC power
+c) To increase voltage
+d) To measure power consumption
+
+Which of the following is an example of a passive electronic component?
+a) Diode
+b) Capacitor
+c) Transistor
+d) Integrated Circuit
+
+What is the unit of magnetic flux density?
+a) Weber
+b) Tesla
+c) Henry
+d) Ampere
+
+What is the main purpose of a voltage regulator in electronic circuits?
+a) To store energy
+b) To measure voltage
+c) To provide a constant voltage output
+d) To convert AC to DC
+
+In a resistive circuit, what is the relationship between voltage, current, and resistance?
+a) V = I * R
+b) V = R / I
+c) I = V * R
+d) R = V / I
+
+What type of capacitor is used in high-frequency applications?
+a) Electrolytic Capacitor
+b) Ceramic Capacitor
+c) Tantalum Capacitor
+d) Film Capacitor
+
+What is the unit of inductance?
+a) Henry
+b) Farad
+c) Ohm
+d) Tesla
+
+What is the function of a zener diode?
+a) To allow current to flow in one direction only
+b) To regulate voltage in a circuit
+c) To store electrical energy
+d) To increase current
+
+What is the primary function of a power transistor?
+a) To amplify electrical signals
+b) To store electrical energy
+c) To measure voltage
+d) To regulate current
+
+Which of the following components can act as a switch in a circuit?
+a) Resistor
+b) Capacitor
+c) Transistor
+d) Inductor
+
+What is the term for a circuit that includes both resistors and capacitors?
+a) RC Circuit
+b) RL Circuit
+c) RLC Circuit
+d) RL Filter
+
+What does a digital multimeter measure?
+a) Voltage, current, and resistance
+b) Only voltage
+c) Only current
+d) Only resistance
+
+What is the main function of an operational amplifier (op-amp)?
+a) To amplify signals
+b) To measure electrical resistance
+c) To store electrical energy
+d) To convert AC to DC
+
+Which type of electrical connector is used for high-current applications?
+a) USB Connector
+b) RJ45 Connector
+c) Anderson Powerpole
+d) HDMI Connector
+
+What is the term for the opposition to the flow of alternating current due to inductance and capacitance?
+a) Resistance
+b) Impedance
+c) Reactance
+d) Conductance
+
+What type of battery is rechargeable and commonly used in electronics?
+a) Alkaline Battery
+b) Zinc-Carbon Battery
+c) Lithium Battery
+d) Nickel-Metal Hydride Battery
+
+What is the function of a snubber circuit?
+a) To suppress voltage spikes
+b) To amplify signals
+c) To measure current
+d) To store electrical energy
+
+Which electronic component is used to convert light into an electrical signal?
+a) Photodiode
+b) Light-Emitting Diode (LED)
+c) Resistor
+d) Capacitor
+
+What is the role of a voltage divider circuit?
+a) To convert AC to DC
+b) To divide the input voltage into smaller voltages
+c) To measure resistance
+d) To amplify signals
+
+What is the main purpose of a signal amplifier?
+a) To increase the amplitude of signals
+b) To decrease the amplitude of signals
+c) To store electrical energy
+d) To measure voltage
+
+What type of circuit uses both resistors and inductors?
+a) RL Circuit
+b) RC Circuit
+c) RLC Circuit
+d) RC Filter
+
+What is the main function of a relay in an electrical circuit?
+a) To switch electrical devices on and off
+b) To measure electrical current
+c) To store electrical energy
+d) To convert AC to DC
+
+What does the term "transmission line" refer to in electrical engineering?
+a) A line used to transmit power from one point to another
+b) A line used to measure resistance
+c) A line used to store electrical energy
+d) A line used to amplify signals
+
+What is the main function of a current limiter circuit?
+a) To protect components by limiting the current
+b) To measure voltage
+c) To store electrical energy
+d) To convert AC to DC
+
+What is the purpose of an isolation transformer?
+a) To isolate different parts of a circuit
+b) To measure current
+c) To increase voltage
+d) To convert AC to DC
+
+Which of the following components can be used to filter high-frequency signals?
+a) Inductor
+b) Resistor
+c) Capacitor
+d) Transformer
+
+What is the term for the change in electrical current over time in an AC circuit?
+a) Frequency
+b) Amplitude
+c) Phase
+d) Voltage
+
+What is the unit of electric field strength?
+a) Volt
+b) Ampere
+c) Newton per Coulomb
+d) Ohm
+
+What does the abbreviation PCB stand for in electronics?
+a) Printed Circuit Board
+b) Power Control Board
+c) Peripheral Connection Board
+d) Primary Circuit Board
+
+What is the main function of a voltage reference in a circuit?
+a) To provide a stable reference voltage
+b) To measure current
+c) To amplify signals
+d) To convert AC to DC
+
+What is the purpose of a power factor correction capacitor?
+a) To improve the power factor of an AC system
+b) To store electrical energy
+c) To measure voltage
+d) To convert AC to DC
+
+Which of the following is used to measure the frequency of a signal?
+a) Oscilloscope
+b) Multimeter
+c) Frequency Counter
+d) Wattmeter
+
+What is the main function of a voltage multiplier circuit?
+a) To increase the voltage level
+b) To decrease the voltage level
+c) To measure voltage
+d) To store electrical energy
+
+What does the term "duty cycle" refer to in pulse signals?
+a) The ratio of the pulse width to the total period
+b) The frequency of the pulse
+c) The amplitude of the pulse
+d) The phase of the pulse
+
+What is the primary function of a low-pass filter?
+a) To allow low-frequency signals to pass while blocking high-frequency signals
+b) To allow high-frequency signals to pass while blocking low-frequency signals
+c) To measure resistance
+d) To convert AC to DC
+
+Which type of circuit is used to convert DC to DC with a different voltage level?
+a) Buck Converter
+b) Boost Converter
+c) Buck-Boost Converter
+d) All of the above
+
+What is the unit of electric charge?
+a) Volt
+b) Ampere
+c) Coulomb
+d) Ohm
+
+What is the main purpose of a logic gate in digital circuits?
+a) To perform logical operations
+b) To store electrical energy
+c) To measure voltage
+d) To convert analog signals to digital signals
+
+Which of the following components is used for signal modulation?
+a) Capacitor
+b) Transistor
+c) Resistor
+d) Inductor
+
+What is the primary use of a current shunt resistor?
+a) To measure high current
+b) To measure low voltage
+c) To store electrical energy
+d) To convert AC to DC
+
+What is the unit of magnetic field strength?
+a) Tesla
+b) Weber
+c) Henry
+d) Ampere per meter
+
+What does a digital-to-analog converter (DAC) do?
+a) Converts digital signals to analog signals
+b) Converts analog signals to digital signals
+c) Measures resistance
+d) Stores electrical energy
+
+What is the main function of a choke in an electrical circuit?
+a) To filter out high-frequency noise
+b) To store electrical energy
+c) To measure voltage
+d) To amplify signals
+
+What is the purpose of a battery's electrolyte?
+a) To conduct electrical charge between the positive and negative electrodes
+b) To store energy
+c) To regulate voltage
+d) To increase resistance
+
+Which device is used to protect a circuit from high voltage surges?
+a) Capacitor
+b) Resistor
+c) Surge Protector
+d) Inductor
+
+What is the unit of inductive reactance?
+a) Ohm
+b) Henry
+c) Farad
+d) Tesla
+
+What is the primary use of a voltage-controlled oscillator (VCO)?
+a) To generate a frequency that varies with the input voltage
+b) To store electrical energy
+c) To measure resistance
+d) To convert AC to DC
+
+What is the function of a transformer’s core?
+a) To provide a path for magnetic flux
+b) To measure voltage
+c) To increase current
+d) To filter signals
+
+What is the unit of electric potential difference?
+a) Volt
+b) Ampere
+c) Ohm
+d) Watt
+
+What does the abbreviation PWM stand for in electronics?
+a) Pulse Width Modulation
+b) Pulse Wave Modulation
+c) Power Width Modulation
+d) Phase Width Modulation
+
+What is the primary purpose of an antenna in an electronic device?
+a) To transmit or receive electromagnetic waves
+b) To store electrical energy
+c) To measure current
+d) To convert DC to AC
+
+Which of the following is used to protect circuits from high voltage?
+a) Fuse
+b) Inductor
+c) Resistor
+d) Capacitor
+
+What is the main purpose of a voltage follower circuit?
+a) To buffer and stabilize the voltage signal
+b) To increase the voltage
+c) To measure resistance
+d) To convert AC to DC
+
+What is the unit of power dissipation in a resistor?
+a) Watt
+b) Ampere
+c) Volt
+d) Ohm
+
+What type of electrical signal is typically used in digital communication?
+a) Analog Signal
+b) Digital Signal
+c) Mixed Signal
+d) High-Frequency Signal
+
+What is the primary function of a variable resistor (potentiometer)?
+a) To adjust resistance in a circuit
+b) To store electrical energy
+c) To convert AC to DC
+d) To measure voltage
+
+Which component is commonly used for signal amplification?
+a) Capacitor
+b) Diode
+c) Transistor
+d) Resistor
